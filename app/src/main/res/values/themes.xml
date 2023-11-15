@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EX3" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#CDFF6347</item>
+        <item name="fontFamily">amarante</item>
+    </style>
+
+    <style name="Theme.EX3" parent="Base.Theme.EX3" />
+</resources>
